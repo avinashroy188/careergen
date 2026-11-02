@@ -1,0 +1,1345 @@
+<!doctype html>
+<!-- Made in Framer · framer.com -->
+<!-- Published Nov 1, 2026, 11:29 AM UTC -->
+<html lang="en" data-redirect-timezone="1">
+<head>
+	<base href="../">
+	<script src="../js/rerouter.js"></script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="generator" content="Framer 1683339">
+	<title>AI Course for Kids in Hyderabad | Offline at School | AI Literacy for Camp | CareerGen</title>
+    <meta name="description" content="Discover Offline AI Creator Camp, an 8-week AI course for students in Classes 7–10. Learn generative AI, prompting, design, and basic coding and build a portfolio website">
+    <meta name="framer-search-index" content="../js/searchindex-bp1ofkrrm29w.json">
+    <meta name="framer-search-index-fallback" content="../js/searchindex-ivpxzwqvrlxi.json">
+    <link href="../images/app-icon.png" rel="icon" media="(prefers-color-scheme: light)">
+    <link href="../images/h8rdtxkq8b9prrrwnqaxbmnsak.png" rel="icon" media="(prefers-color-scheme: dark)">
+    <link rel="apple-touch-icon" href="../images/app-icon.png">
+    <!-- Open Graph -->
+    
+    <meta property="og:title" content="AI Course for Kids in Hyderabad | Offline at School | AI Literacy for Camp | CareerGen">
+    <meta property="og:description" content="Discover Offline AI Creator Camp, an 8-week AI course for students in Classes 7–10. Learn generative AI, prompting, design, and basic coding and build a portfolio website">
+    <meta property="og:image" content="../images/6r8penzvit0nyi4wmzkartn1ovk-1.jpg">
+    <!-- X -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Course for Kids in Hyderabad | Offline at School | AI Literacy for Camp | CareerGen">
+    <meta name="twitter:description" content="Discover Offline AI Creator Camp, an 8-week AI course for students in Classes 7–10. Learn generative AI, prompting, design, and basic coding and build a portfolio website">
+    <meta name="twitter:image" content="../images/6r8penzvit0nyi4wmzkartn1ovk-1.jpg">
+	
+	
+	
+	<script>((s,k,r)=>{let a=new Set,l=new Set,c=!1;function F(){c=!1;let e=[...l];l.clear();for(let n of e)n()}function w(e){l.add(e),!c&&(c=!0,requestAnimationFrame(F))}function D(){for(;a.size;){let e=a.values().next().value;a.delete(e),e()}}let M="scheduler"in s&&"postTask"in scheduler?e=>{scheduler.postTask(e,{priority:"background"})}:e=>setTimeout(e,1),P=new Promise(e=>{s.addEventListener("load",()=>{e()})}).then(()=>{P=void 0}),B="scheduling"in navigator&&typeof navigator.scheduling?.isInputPending=="function"?navigator.scheduling.isInputPending.bind(navigator.scheduling):()=>!1;async function j(e,n){a.add(e);let t;if(n&&r.readyState!=="complete"&&await P,!a.has(e))return;if(r.hidden){a.delete(e),e();return}let i=()=>{M(()=>{a.delete(e)&&e()})};w(()=>{B()?w(i):i()})}function f(e,n=!1){if(r.hidden){e();return}j(e,n)}let p,g;async function U(){return new Promise(e=>{let n=()=>{a.delete(e),e()};g=n,setTimeout(n,150),a.add(e)})}function A(e){e.button===0&&(p=U())}function v(){p=void 0,g?.(),g=void 0}r.addEventListener("mousedown",A,!0),r.addEventListener("click",v,!0),r.addEventListener("visibilitychange",()=>{r.hidden&&(D(),v())},!0),r.addEventListener("pagehide",()=>{v(),D()},!0);let S=r.addEventListener,T=r.removeEventListener,C=["click","auxclick","mousedown","keyup","submit"];function I(e,n){let t=[],i=[],o;for(o in e){if(typeof e[o]=="function")continue;let u=n[o];u===void 0?i.push(o):e[o]!==u&&t.push(o)}(t.length||i.length)&&console.log(`Different: ${t.join(", ")}`,`Missing: ${i.join(", ")}`)}let m=new WeakMap;function W(e){let n=m.get(e);if(n)return n;let t=async function(o){let u;o.type==="mousedown"&&o.button===0&&await p,f(()=>{typeof e=="function"?e.call(this,o):e.handleEvent(o)})};return m.set(e,t),t}r.addEventListener=function(e,n,t){if(n&&C.includes(e)){S.call(this,e,W(n),t);return}S.call(this,e,n,t)},r.removeEventListener=function(e,n,t){T.call(this,e,n,t);let i=n&&m.get(n);i&&T.call(this,e,i,t)};function _(e){return function(...t){return f(()=>{e.apply(this,t)},!0),!0}}function G(e){if(e.__f)return;let n=e.push;Object.defineProperty(e,"push",{enumerable:!0,get(){return n},set(t){t!==n&&(n=t?_(t):void 0)}}),Object.defineProperty(e,"__f",{enumerable:!1,value:!0})}function V(){let e=s.dataLayer;e&&(G(e),Object.defineProperty(s,"dataLayer",{enumerable:!0,get(){return e},set(n){n!==e&&(e=n,e&&G(e))}}))}let y=new MutationObserver(()=>{if(r.readyState==="complete"&&!("dataLayer"in s)){y.disconnect();return}"dataLayer"in s&&(y.disconnect(),V())});y.observe(r.documentElement,{childList:!0,subtree:!0});function L(e,n){let t=e.__proto__[n]??e[n],i,o=0;function u(d){let E=o++;function x(...O){(i===void 0||E>=i)&&t.apply(this,O),d&&f(()=>{let b=i;i=b===void 0?E:Math.max(b,E);try{d.apply(this,O)}finally{i=b}})}return x}let h=u();Object.defineProperty(e,n,{enumerable:!0,get(){return h},set(d){d!==h&&(h=d?u(d):void 0)}})}L(k,"pushState"),L(k,"replaceState"),L(HTMLFormElement.prototype,"submit")})(window,window.history,document);
+</script>
+	<!-- Start of headStart -->
+    
+    <!-- End of headStart -->
+	<style data-framer-css-ssr>
+		html, body, #main {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+	:root {
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+	* {
+		box-sizing: border-box;
+		-webkit-font-smoothing: inherit;
+	}
+	h1, h2, h3, h4, h5, h6, p, figure {
+		margin: 0;
+	}
+		body, input, textarea, select, button { font-size: 12px; font-family: sans-serif; }
+		body { --token-3c675309-91c5-4b64-a956-9189118d694b: rgb(244, 240, 229);--token-fdb51f6b-45dc-4aed-81bb-6b8f7124dad5: rgba(244, 240, 229, 0.2);--token-fe34d3af-9ba4-4024-806f-c124080ccf0a: rgba(244, 240, 229, 0.1);--token-ba50d2e5-600e-4acb-b91c-6cca2f86f1d6: rgb(20, 38, 29);--token-dbb48573-48d8-403f-ad86-7009a5265b2f: rgba(20, 38, 29, 0.2);--token-d88c44a0-507a-42e1-b318-37f7d04d3c06: rgba(20, 38, 29, 0.1);--token-e7e6c389-54de-40d3-bd41-8072dc4a41a5: rgb(69, 86, 75);--token-9be2179a-d4c3-4b1c-a57e-66ad0ebb844d: rgb(232, 114, 44);--token-9f7780f5-af12-4101-9125-2580d35c4118: rgb(249, 216, 192);--token-1d403a9e-a47a-49fa-b259-3726165583a7: rgb(73, 126, 100);--token-a225ace6-638e-469b-9793-3ab54fcf3b3a: rgb(27, 52, 40);--token-d0e4cb96-2373-4292-a52b-0c70e08d9898: rgb(246, 215, 232);--token-7bbaafe9-06f3-4286-8b9e-1f6b96128a55: rgb(255, 255, 255);--token-78006fc2-4aed-468c-a9d5-0eb0993d6aea: rgb(201, 224, 242);--token-e8cec243-b334-4568-a85b-a75cea534593: rgb(214, 229, 154);--token-e079c459-c6e9-4577-8c52-a24b838cfa37: rgb(234, 228, 211);--token-6d01e849-0360-4833-a596-25b2129a6062: rgb(0, 0, 0);--token-dc748500-c8f8-4f03-bf78-87fa29331331: rgba(0, 0, 0, 0);--token-d46389a1-c11a-499f-a8d1-1f5543960045: rgb(84, 136, 178);--token-559afd26-dcc7-43cc-8a31-2704684e0b51: rgb(31, 32, 34);--token-395d23cd-a008-45ab-b352-f11a1a17ba50: rgb(110, 110, 110);--token-c82263a9-c8a5-4eba-8f7a-fe1f3667910c: rgba(31, 32, 34, 0.9);--token-3dcbdd1c-d79c-42ab-875a-11bbcf634d1e: rgba(31, 32, 34, 0.2);--token-b95158e5-ecdc-4af4-8e59-238a7b45230f: rgb(255, 255, 255);--token-2f07a9f1-c4fe-45a0-aa16-c5191860cd79: rgba(255, 255, 255, 0.7);--token-15188348-5bc6-454e-9308-3392cf6da5e3: rgb(242, 238, 232);--token-e2433542-2d5f-437d-874c-e0193361a91e: rgb(250, 247, 243);--token-0ee02a3f-ed8e-448b-8687-825ce9c34aac: rgba(255, 255, 255, 0);--token-e5926a51-3685-4448-8385-b71449910f0a: rgba(31, 32, 34, 0);--token-4ae92d71-5beb-4c67-854a-2e7a065065d4: rgba(31, 32, 34, 0.1);--token-aed9e261-b30c-400c-ba71-293c35a438db: rgb(124, 154, 122);--token-6839ec55-d842-4f6b-b42b-152c60772a08: rgba(255, 255, 255, 0.1);--token-0ce66090-6f85-43da-b413-24099e47a016: rgba(255, 255, 255, 0.5);--token-b76b0d2e-76ae-4901-a5d2-e0b0d0c9cfa5: rgb(232, 112, 58);--token-e7a43023-6020-4ef4-8377-7f47ad01d4d9: rgba(31, 32, 34, 0.5);--token-23b59c71-bcd9-4239-8358-53b6c3cc209e: rgb(178, 110, 69);--token-5bafd284-4248-4179-8fdd-7a454d5f3ef0: rgb(160, 175, 100);--token-063ff471-c217-459b-93cf-10fc93b25dad: rgb(104, 104, 104);--token-64a67e5b-965a-40d6-a1e7-5c1752e68f75: rgb(25, 24, 26);--token-7174cf38-b035-4109-8df9-277fa020ca66: rgb(26, 93, 249);--token-1155d13b-37e2-47ed-93ce-c08c2cfdd816: rgb(190, 143, 169);--token-a059f435-bb0e-48c5-ac68-2aad5474e6d7: rgb(186, 146, 117);--token-1e504858-12f8-4dd0-88c3-45ca2b94ee6a: rgba(255, 255, 255, 0.15);--token-a863ed73-03aa-4f5a-b2ef-3a988d47346e: rgb(237, 225, 209);--token-2a04717b-8a13-4565-b3f3-aead0ecf0313: rgb(33, 26, 20);--token-4ac77743-cf5a-4889-874e-fe31ea126e4c: rgb(110, 99, 87);--token-e4769751-f7d6-49b8-bdaa-83a19bf7f68a: rgba(110, 99, 87, 0.2);--token-38ae88e1-6582-4e5f-bfaa-5cee1a69fb88: rgba(33, 26, 20, 0);--token-5d7968d8-2ad2-4068-ba66-135a422ddc28: rgb(241, 235, 226);--token-fa6732e2-aec4-4281-aa7c-0027ba9122e7: rgb(161, 94, 59);--token-f231dbc6-e42a-4fb1-9d61-ac4d34865e92: rgb(233, 225, 212);--token-2ece4d70-6a89-4b27-aeca-4f323117e53a: rgb(255, 255, 255);--token-a45bfe38-56a3-401b-9ec5-66a4a4243ef1: rgba(0, 0, 0, 0.56);--token-67577bbb-3cfe-4a7d-aa31-7f158f949630: rgb(31, 32, 34);--token-81aeac48-ea6b-45f6-9e66-ab53085d1d09: rgb(110, 110, 110);--token-aa52f7d0-c2b9-46bc-82c0-bdc0ef6b16d5: rgba(58, 42, 46, 0.08);--token-75d59e28-0285-4783-9214-853467e8d7bc: rgb(255, 255, 255);--token-a777bb2a-c452-4aef-a261-141c769b356b: rgb(237, 227, 210);--token-2f9ce305-28f1-41c4-bf48-fa9b214b0f73: rgb(94, 31, 53);--token-57f9b36d-8c6b-4850-8ecd-a1f573d9ccc2: rgb(58, 42, 46);--token-9498d722-db74-4df3-843e-936ffddb97ca: rgb(245, 237, 228);--token-0aa22863-9b5f-4cdd-a74f-5ea95abe1bf6: rgb(126, 110, 114);--token-20af2bf4-06de-4ec1-b577-75ecd99aa0a4: rgba(61, 31, 46, 0.03);--token-864efae0-958b-4f0c-94c1-0e67aaf77b9c: rgba(20, 38, 29, 0.7);--token-561c0f56-cb6a-4a9c-94fc-be05623038d1: rgb(25, 24, 26);--token-c0d0f918-1eb4-4916-9513-4f87c3220606: rgb(255, 255, 255);--token-df527946-48ed-4bcf-a280-f740544633f0: rgba(0, 0, 0, 0.5);--token-6305a857-db22-42a8-bc08-cd171ff4e647: rgba(245, 241, 230, 0.6);--token-13145528-2ac1-460c-87d3-b0dbdb0d1454: rgb(47, 47, 104);--token-c19f5e16-274f-4d28-9562-0849c6bc959a: rgb(230, 230, 230);--token-e9691ef1-ca90-4a4c-8f79-63457af55229: rgb(255, 255, 255);--token-5c8094ea-c1d8-475f-9107-11173013aa1a: rgb(178, 178, 184);--token-225c056c-536e-4289-9276-3f52376896b4: rgb(207, 97, 12); @supports (color: color(display-p3 1 1 1)) {  } }
+@media (prefers-color-scheme: dark) { body {  @supports (color: color(display-p3 1 1 1)) {  } } }
+		
+		@supports (z-index: calc(infinity)) {
+			#__framer-badge-container {
+				--infinity: infinity;
+			}
+		}
+
+		#__framer-badge-container {
+			position: fixed;
+			bottom: 0;
+			padding: 20px;
+			width: 100%;
+			display: flex;
+			justify-content: flex-end;
+			pointer-events: none;
+			z-index: calc(var(--infinity, 2147483647));
+		}
+		
+	</style>
+	<style data-framer-font-css>/* vietnamese */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDFXplDs.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDVXplDs.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDFXplDs.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawDVXplDs.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face { font-family: "Bricolage Grotesque"; src: url("https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyMgvs-wJDtw.woff2"); font-display: swap; font-style: normal; font-weight: 600 }
+@font-face { font-family: "Instrument Sans"; src: url("https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-QfwmS0v3_7Y.woff2"); font-display: swap; font-style: normal; font-weight: 400 }
+@font-face { font-family: "Instrument Sans"; src: url("https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gfwmS0v3_7Y.woff2"); font-display: swap; font-style: normal; font-weight: 700 }
+@font-face { font-family: "Instrument Sans"; src: url("https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkywN2u7YUwU.woff2"); font-display: swap; font-style: italic; font-weight: 700 }
+@font-face { font-family: "Instrument Sans"; src: url("https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kywN2u7YUwU.woff2"); font-display: swap; font-style: italic; font-weight: 400 }
+@font-face { font-family: "Bricolage Grotesque"; src: url("https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyMgvs-wJDtw.woff2"); font-display: swap; font-style: normal; font-weight: 500 }
+@font-face { font-family: "Bricolage Grotesque"; src: url("https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyMgvs-wJDtw.woff2"); font-display: swap; font-style: normal; font-weight: 700 }
+@font-face { font-family: "Instrument Sans"; src: url("https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-QfwmS0v3_7Y.woff2"); font-display: swap; font-style: normal; font-weight: 500 }
+@font-face { font-family: "Bricolage Grotesque"; src: url("https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvZvlyMgvs-wJDtw.woff2"); font-display: swap; font-style: normal; font-weight: 800 }
+@font-face { font-family: "Geist"; src: url("https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4mJPby1QNtA.woff2"); font-display: swap; font-style: normal; font-weight: 700 }
+@font-face { font-family: "Inter"; src: url("../images/5vvr9vy74if2i6bqbjvbw7sy1pq.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/eor0mi4hntlgwnn9if640ezzxco.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/y9k9qrlzaqio88klkmbd8vomqc.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/oyrd2tbibpvojxiihnlooxny9m.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/jeywfuapfzhqheg8u5gtpdz7wq.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/grgckwrn6d3uz8ewclhzxwefc4.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/b6y37fthzealdunqhicbt6futy.woff2"); font-display: swap; font-style: normal; font-weight: 400; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Inter"; src: url("../images/dppbyi0sl4fylgakx8kxopvt7c.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/4raeqdeorcndkhhiicbjow92lk.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/1k3w8dizy3v4emk8mb08yhxtbs.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/tusctfyvm1i1ichuycwz9gddq.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/vgyfwiwsac5oyxaycrxxvhze58.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/syrnpwzamircj3wilpip43kjqs.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/giryzetix4ifypco5pyzonkhjio.woff2"); font-display: swap; font-style: normal; font-weight: 700; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Inter"; src: url("../images/h89bbhkbhdzlxzzxi8upztsp90.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/u6gjwduwb143kpnk1t1mdkdwkmc.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/43sj6mfoph1lcjt46ovydusba6o.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/wcchg0r4gbdairhfhiolq6oekqw.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/wz367jpwf9brw6ldthn8rxgsjw.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/ia3uin3hqwqdrvloc1zetyhww.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/2a4xx7cngadfglvv4xro06obhy.woff2"); font-display: swap; font-style: italic; font-weight: 700; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Inter"; src: url("../images/cfmzu8w2e7thgf4t4ratmpuwosa.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/867qobyax8ansfx4tgevu9yicm.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/oyn2zbenfdnw7mt2lzjk1h9zb9k.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/cdae8hgz1cmylu9g005paw3xmo.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/dofvtme1uplcq161m6hj8csqyg.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/pkrfnwfozl77qycaip84ln1h944.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/tktbcdnbmevseejkdnghhklzyo.woff2"); font-display: swap; font-style: italic; font-weight: 400; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Inter"; src: url("../images/mky5sgyq51ik0amrsbwhm9djg.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/x5hj6qzchuyv7h1390c8rhm6550.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/gqhnps3tn86g8rcvkyuuakt2omq.woff2"); font-style: normal; font-weight: 900; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/cugnvhsraaryancauti5fv17wk.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/5hcvogak8k5agfjsaka4floxvu0.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/rz5ddennqidftiyqqip5iso7m.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/p2bw01ctl0b9wqygo0ssvogwbo.woff2"); font-style: normal; font-weight: 900; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Inter"; src: url("../images/05ksvhgdmqxsbxm4yrz65p8i0s.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F }
+@font-face { font-family: "Inter"; src: url("../images/ky8ovpukk4dj1pxq74qghoqcyi.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116 }
+@font-face { font-family: "Inter"; src: url("../images/vvnsqij42qeq2bvcrbiwkhscrc.woff2"); font-style: italic; font-weight: 900; unicode-range: U+1F00-1FFF }
+@font-face { font-family: "Inter"; src: url("../images/3zmxbbktojifdv9gwcifvd1tey.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0370-03FF }
+@font-face { font-family: "Inter"; src: url("../images/fnfhx3dt4chuljq2pwdlxho7pu.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF }
+@font-face { font-family: "Inter"; src: url("../images/gcnfba68tfm7qayrwrcf9r34jg.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD }
+@font-face { font-family: "Inter"; src: url("../images/eftfqcbj53km2pb1hezsz3rdufs.woff2"); font-style: italic; font-weight: 900; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB }
+@font-face { font-family: "Bricolage Grotesque Placeholder"; src: local("Arial"); ascent-override: 87.18%; descent-override: 25.31%; line-gap-override: 0.00%; size-adjust: 106.68% }
+@font-face { font-family: "Instrument Sans Placeholder"; src: local("Arial"); ascent-override: 93.97%; descent-override: 24.22%; line-gap-override: 0.00%; size-adjust: 103.22% }
+@font-face { font-family: "Geist Placeholder"; src: local("Arial"); ascent-override: 94.56%; descent-override: 27.76%; line-gap-override: 0.00%; size-adjust: 106.28% }
+@font-face { font-family: "Inter Placeholder"; src: local("Arial"); ascent-override: 89.79%; descent-override: 22.36%; line-gap-override: 0.00%; size-adjust: 107.89% }</style>
+	<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+	
+	<!-- Start of headEnd -->
+    
+    <!-- End of headEnd -->
+	
+<style id="careergen-visibility-fix">
+/* CareerGen Global Visibility & Render Fix */
+[data-framer-appear-id] {
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
+div[style*="opacity:0.001"],
+div[style*="opacity: 0.001"],
+div[style*="opacity:0;"],
+div[style*="opacity: 0;"],
+div[style*="opacity:0""],
+p[style*="opacity:0.001"],
+p[style*="opacity: 0.001"],
+p[style*="opacity:0;"],
+p[style*="opacity: 0;"] {
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
+.framer-1hgay8u, .framer-1sdszt2 {
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+</style>
+
+
+
+
+
+
+<style id="careergen-enhanced-components">
+/* ============================================================
+   CAREERGEN PREMIUM STICKY BOTTOM REGISTRATION CTA BAR
+   ============================================================ */
+.careergen-sticky-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: rgba(20, 38, 29, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-top: 1.5px solid rgba(232, 114, 44, 0.4);
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.28), 0 0 20px rgba(232, 114, 44, 0.1);
+  transform: translateY(100%);
+  animation: stickyBarSlideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+  will-change: transform;
+}
+
+@keyframes stickyBarSlideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.careergen-sticky-container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 10px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  box-sizing: border-box;
+}
+
+.careergen-sticky-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.careergen-sticky-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.careergen-course-badge {
+  background: rgba(244, 240, 229, 0.12);
+  border: 1px solid rgba(244, 240, 229, 0.2);
+  color: var(--token-3c675309-91c5-4b64-a956-9189118d694b, #f4f0e5);
+  font-family: "Inter", sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 100px;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.careergen-course-title {
+  font-family: "Bricolage Grotesque", "Inter", sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.careergen-urgency-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(232, 114, 44, 0.16);
+  border: 1px solid rgba(232, 114, 44, 0.45);
+  padding: 3px 10px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+
+.careergen-pulse-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #e8722c;
+  box-shadow: 0 0 8px #e8722c;
+  display: inline-block;
+  animation: promoPulse 1.6s infinite ease-in-out;
+}
+
+.careergen-urgency-text {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #ff7a3d;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.careergen-sticky-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.careergen-pricing-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+
+.careergen-pricing-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.careergen-offer-label {
+  background: rgba(232, 114, 44, 0.22);
+  border: 1px solid rgba(232, 114, 44, 0.5);
+  color: #f9d8c0;
+  font-family: "Inter", sans-serif;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 1px 7px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+
+.careergen-price-original {
+  font-family: "Inter", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(244, 240, 229, 0.55);
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.careergen-price-current {
+  font-family: "Bricolage Grotesque", "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+.careergen-price-suffix {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(244, 240, 229, 0.7);
+}
+
+.careergen-register-btn {
+  background-color: var(--token-9be2179a-d4c3-4b1c-a57e-66ad0ebb844d, #e8722c);
+  box-shadow: 0px 4px 0px 0px var(--token-23b59c71-bcd9-4239-8358-53b6c3cc209e, #b26e45);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 100px;
+  color: #ffffff !important;
+  font-family: "Inter", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 10px 22px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+  white-space: nowrap;
+}
+
+.careergen-register-btn:hover {
+  background-color: #f07b36;
+  transform: translateY(-2px);
+  box-shadow: 0px 6px 0px 0px var(--token-23b59c71-bcd9-4239-8358-53b6c3cc209e, #b26e45);
+}
+
+.careergen-register-btn:active {
+  transform: translateY(2px);
+  box-shadow: 0px 1px 0px 0px var(--token-23b59c71-bcd9-4239-8358-53b6c3cc209e, #b26e45);
+}
+
+/* Page bottom padding for sticky bar */
+body {
+  padding-bottom: 76px !important;
+}
+
+/* Hide legacy Framer floating button */
+.framer-1rs71ji-container {
+  display: none !important;
+}
+
+/* ============================================================
+   CAREERGEN WHATSAPP FLOATING BUTTON (THEMED TO WHATSAPP API)
+   ============================================================ */
+.careergen-whatsapp-float {
+  position: fixed;
+  bottom: 78px;
+  right: 24px;
+  z-index: 99998;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+  color: #ffffff !important;
+  text-decoration: none !important;
+  padding: 10px 18px;
+  border-radius: 100px;
+  box-shadow: 0 6px 22px rgba(37, 211, 102, 0.42), 0 2px 6px rgba(0, 0, 0, 0.2);
+  border: 1.5px solid rgba(255, 255, 255, 0.35);
+  font-family: "Inter", sans-serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  animation: waSlideIn 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.5s backwards;
+}
+
+@keyframes waSlideIn {
+  from {
+    transform: translateY(30px) scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.careergen-whatsapp-float:hover {
+  background: linear-gradient(135deg, #2be671 0%, #17a090 100%);
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 10px 28px rgba(37, 211, 102, 0.55), 0 3px 8px rgba(0, 0, 0, 0.25);
+  color: #ffffff !important;
+}
+
+.careergen-whatsapp-float:active {
+  transform: translateY(1px) scale(0.98);
+}
+
+.careergen-whatsapp-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.careergen-whatsapp-icon-wrap svg {
+  width: 22px;
+  height: 22px;
+  fill: #ffffff;
+}
+
+.careergen-whatsapp-pulse {
+  position: absolute;
+  top: 3px;
+  right: 5px;
+  width: 9px;
+  height: 9px;
+  background: #39FF14;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #39FF14;
+}
+
+/* Mobile & Tablet Responsiveness */
+@media (max-width: 860px) {
+  body {
+    padding-bottom: 82px !important;
+  }
+  .careergen-whatsapp-float {
+    bottom: 70px;
+    right: 14px;
+    padding: 8px 14px;
+    font-size: 12.5px;
+    gap: 7px;
+  }
+  .careergen-whatsapp-icon-wrap svg {
+    width: 19px;
+    height: 19px;
+  }
+  .careergen-sticky-container {
+    padding: 8px 14px;
+    gap: 8px;
+  }
+  .careergen-course-badge {
+    display: none;
+  }
+  .careergen-course-title {
+    font-size: 14px;
+  }
+  .careergen-sticky-left {
+    gap: 3px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .careergen-urgency-pill {
+    padding: 1px 7px;
+  }
+  .careergen-urgency-text {
+    font-size: 10.5px;
+  }
+  .careergen-sticky-right {
+    gap: 12px;
+  }
+  .careergen-offer-label {
+    display: none;
+  }
+  .careergen-price-current {
+    font-size: 16px;
+  }
+  .careergen-price-original {
+    font-size: 11px;
+  }
+  .careergen-register-btn {
+    padding: 8px 16px;
+    font-size: 12px;
+    box-shadow: 0px 3px 0px 0px var(--token-23b59c71-bcd9-4239-8358-53b6c3cc209e, #b26e45);
+  }
+}
+
+@media (max-width: 520px) {
+  .careergen-course-title {
+    font-size: 13px;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .careergen-register-btn {
+    padding: 7px 12px;
+    font-size: 11.5px;
+  }
+  .careergen-register-btn svg {
+    display: none;
+  }
+}
+
+/* ============================================================
+   CAREERGEN IN-PAGE MODALS (PDF VIEWER & VIDEO PLAYER)
+   ============================================================ */
+.careergen-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 999999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.careergen-modal-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 20, 15, 0.84);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  animation: modalFadeIn 0.25s ease forwards;
+}
+
+.careergen-modal-box {
+  position: relative;
+  background: var(--token-a225ace6-638e-469b-9793-3ab54fcf3b3a, #1b3428);
+  border: 1.5px solid rgba(232, 114, 44, 0.45);
+  border-radius: 20px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7), 0 0 30px rgba(232, 114, 44, 0.15);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 2;
+  animation: modalScaleIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.careergen-pdf-box {
+  width: 95vw;
+  max-width: 1020px;
+  height: 90vh;
+}
+
+.careergen-video-box {
+  width: 95vw;
+  max-width: 820px;
+  max-height: 90vh;
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes modalScaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.94) translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.careergen-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background: rgba(20, 38, 29, 0.85);
+  border-bottom: 1px solid rgba(244, 240, 229, 0.1);
+  gap: 12px;
+}
+
+.careergen-modal-title-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.careergen-modal-badge {
+  background: rgba(244, 240, 229, 0.12);
+  border: 1px solid rgba(244, 240, 229, 0.25);
+  color: #f4f0e5;
+  font-family: "Inter", sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 100px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.careergen-modal-title {
+  margin: 0;
+  font-family: "Bricolage Grotesque", "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+
+.careergen-modal-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.careergen-modal-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 100px;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.careergen-btn-secondary {
+  background: rgba(244, 240, 229, 0.12);
+  border: 1px solid rgba(244, 240, 229, 0.25);
+  color: #f4f0e5 !important;
+}
+
+.careergen-btn-secondary:hover {
+  background: rgba(244, 240, 229, 0.22);
+  border-color: rgba(244, 240, 229, 0.4);
+}
+
+.careergen-modal-close-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.careergen-modal-close-btn:hover {
+  background: rgba(232, 114, 44, 0.85);
+  border-color: #e8722c;
+  transform: scale(1.08);
+}
+
+.careergen-pdf-body {
+  flex: 1;
+  width: 100%;
+  height: calc(100% - 60px);
+  background: #1e1e1e;
+}
+
+.careergen-pdf-body iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+.careergen-video-body {
+  padding: 14px;
+  background: #0f1c15;
+}
+
+.careergen-modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  background: rgba(20, 38, 29, 0.85);
+  border-top: 1px solid rgba(244, 240, 229, 0.1);
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.careergen-video-caption {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  color: rgba(244, 240, 229, 0.75);
+  line-height: 1.4;
+  flex: 1;
+  min-width: 200px;
+}
+
+/* ============================================================
+   CAREERGEN CONTACT FORM: AUTHENTIC SQUARE CHECKBOX ICONS
+   ============================================================ */
+.framer-104zzhu {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 10px !important;
+}
+
+.framer-104zzhu label {
+  cursor: pointer !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 8px 14px !important;
+  border-radius: 12px !important;
+  transition: all 0.2s ease !important;
+  user-select: none !important;
+}
+
+/* Explicit Square Checkbox Style (Replaces Circular Radio Look) */
+.framer-104zzhu input[type="checkbox"],
+.framer-104zzhu .framer-form-boolean-input {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  width: 18px !important;
+  height: 18px !important;
+  min-width: 18px !important;
+  min-height: 18px !important;
+  max-width: 18px !important;
+  max-height: 18px !important;
+  border-radius: 4px !important;
+  --framer-input-border-radius-top-left: 4px !important;
+  --framer-input-border-radius-top-right: 4px !important;
+  --framer-input-border-radius-bottom-left: 4px !important;
+  --framer-input-border-radius-bottom-right: 4px !important;
+  --framer-input-boolean-checked-box-shadow: none !important;
+  --framer-input-box-shadow: none !important;
+  border: 1.5px solid var(--token-e7e6c389-54de-40d3-bd41-8072dc4a41a5, #45564b) !important;
+  background-color: var(--token-3c675309-91c5-4b64-a956-9189118d694b, #f4f0e5) !important;
+  cursor: pointer !important;
+  position: relative !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0 4px 0 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  transition: all 0.15s ease !important;
+}
+
+.framer-104zzhu input[type="checkbox"]::after,
+.framer-104zzhu .framer-form-boolean-input::after {
+  display: none !important;
+}
+
+.framer-104zzhu input[type="checkbox"]::before,
+.framer-104zzhu .framer-form-boolean-input::before {
+  content: "" !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  opacity: 0 !important;
+  background-color: #ffffff !important;
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5L6.5 11.5L12.5 4.5' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5L6.5 11.5L12.5 4.5' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important;
+  mask-size: 13px 13px !important;
+  -webkit-mask-size: 13px 13px !important;
+  mask-position: center !important;
+  -webkit-mask-position: center !important;
+  mask-repeat: no-repeat !important;
+  -webkit-mask-repeat: no-repeat !important;
+  transition: opacity 0.15s ease !important;
+}
+
+.framer-104zzhu input[type="checkbox"]:checked,
+.framer-104zzhu .framer-form-boolean-input:checked {
+  background-color: #e8722c !important;
+  border-color: #e8722c !important;
+  box-shadow: 0 0 0 2px rgba(232, 114, 44, 0.25) !important;
+}
+
+.framer-104zzhu input[type="checkbox"]:checked::before,
+.framer-104zzhu .framer-form-boolean-input:checked::before {
+  opacity: 1 !important;
+}
+
+.framer-104zzhu label:has(input[type="checkbox"]:checked) {
+  background-color: rgba(232, 114, 44, 0.14) !important;
+  border-color: #e8722c !important;
+  box-shadow: 0 0 0 1px #e8722c !important;
+}
+
+/* Submit Button & Status Banner */
+.framer-1lx9j5f-container button {
+  opacity: 1 !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease !important;
+}
+
+.careergen-form-status {
+  padding: 14px 18px;
+  margin-top: 16px;
+  border-radius: 12px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  display: none;
+  align-items: center;
+  gap: 10px;
+  line-height: 1.4;
+  animation: modalFadeIn 0.3s ease;
+}
+
+.careergen-form-status.success {
+  display: flex;
+  background: rgba(37, 211, 102, 0.15);
+  border: 1.5px solid #25D366;
+  color: #128C7E;
+}
+
+.careergen-form-status.error {
+  display: flex;
+  background: rgba(232, 70, 70, 0.15);
+  border: 1.5px solid #e84646;
+  color: #d32f2f;
+}
+
+.careergen-input-error {
+  border: 2px solid #e84646 !important;
+  box-shadow: 0 0 0 3px rgba(232, 70, 70, 0.2) !important;
+}
+</style>
+</head>
+<body>
+	
+	<!-- Start of bodyStart -->
+    
+    <!-- End of bodyStart -->
+	<script data-relative-date-script="global">!function(){var c=new Map;function p(e,t,n){let r=[n,{numeric:t,style:e}],o=JSON.stringify(r),s=c.get(o);if(s)return s;let i=new Intl.RelativeTimeFormat(...r);return c.set(o,i),i}function D(e,t,n,a,r,o,s){let i=U(e,t,n),d=F(e,t,i),u=p(a,r,s).format(d,i);return o?R(u):u}function R(e){return e.charAt(0).toUpperCase()+e.slice(1)}function U(e,t,n){if(n!=="auto")return n;let a=T(e,t);if(Math.abs(a)<=7)return"day";let r=g(e,t);if(Math.abs(r)<=4)return"week";let o=v(e,t);return Math.abs(o)<=12?"month":"year"}var h=1e3,y=6e4,C=36e5,M=864e5,w=6048e5;function F(e,t,n){let a=e.getTime()-t.getTime();switch(n){case"second":return Math.trunc(a/h);case"minute":return Math.trunc(a/y);case"hour":return Math.trunc(a/C);case"day":return T(e,t);case"week":return g(e,t);case"month":return v(e,t);case"quarter":return _(e,t);case"year":return x(e,t)}let r=n}function l(e){let t=new Date(e);return t.setUTCHours(0,0,0,0),t}function T(e,t){let n=l(e).getTime(),a=l(t).getTime();return Math.round((n-a)/M)}function f(e){let t=new Date(e),n=t.getUTCDay(),a=(n<1?7:0)+n-1;return t.setUTCDate(t.getUTCDate()-a),t.setUTCHours(0,0,0,0),t}function g(e,t){let n=f(e).getTime(),a=f(t).getTime();return Math.round((n-a)/w)}function v(e,t){let n=e.getUTCFullYear()-t.getUTCFullYear(),a=e.getUTCMonth()-t.getUTCMonth();return n*12+a}function m(e){let t=e.getUTCMonth();return Math.trunc(t/3)}function _(e,t){let n=e.getUTCFullYear()-t.getUTCFullYear(),a=m(e)-m(t);return n*4+a}function x(e,t){return e.getUTCFullYear()-t.getUTCFullYear()}window.__framer_formatRelativeDate=D;
+}()</script>
+	<div id="main"></div>
+	<script>!function(){var w="framer_variant";function u(a,r){let e=r.indexOf("#"),t=e===-1?r:r.substring(0,e),o=e===-1?"":r.substring(e),n=t.indexOf("?"),h=n===-1?t:t.substring(0,n),d=n===-1?"":t.substring(n),s=new URLSearchParams(d),m=new URLSearchParams(a);for(let[i,l]of m)s.has(i)||i!==w&&s.append(i,l);let c=s.toString();return c===""?t+o:h+"?"+c+o}var g='div#main a[href^="#"],div#main a[href^="/"],div#main a[href^="."]',f="div#main a[data-framer-preserve-params]",S=document.currentScript?.hasAttribute("data-preserve-internal-params");if(window.location.search&&!navigator.webdriver&&!/bot|-google|google-|yandex|ia_archiver|crawl|spider/iu.test(navigator.userAgent)){let a=document.querySelectorAll(S?`${g},${f}`:f);for(let r of a){let e=u(window.location.search,r.href);r.setAttribute("href",e)}}
+}()</script>
+	
+	<div class="framer-j4ugry" data-framer-name="Bottom" style="mask:linear-gradient(180deg, rgba(0,0,0,0) 65%, rgba(0,0,0,1) 100%) add;-webkit-mask:linear-gradient(180deg, rgba(0,0,0,0) 65%, rgba(0,0,0,1) 100%) add;border-bottom-left-radius:11px;border-bottom-right-radius:11px;border-top-left-radius:11px;border-top-right-radius:11px;box-shadow:inset 0px 0px 0px 1px rgb(0, 0, 0);opacity:0.06"></div><div class="framer-jnuwbw" data-framer-name="Border" style="border-bottom-left-radius:11px;border-bottom-right-radius:11px;border-top-left-radius:11px;border-top-right-radius:11px;box-shadow:inset 0px 0px 0px 1px rgb(0, 0, 0);opacity:0.04"></div></a><!--/$--><!--/$--><!--/$--></div>
+	<script data-framer-appear-animation="no-preference"></script>
+	<script>typeof document<"u"&&(window.process={...window.process,env:{...window.process?.env,NODE_ENV:"production"}});</script>
+	<link rel="modulepreload" fetchpriority="low" href="../js/rolldown-runtime.bi-d_2ca.mjs"><link rel="modulepreload" fetchpriority="low" href="../js/react.dxe_2v0o.mjs"><link rel="modulepreload" fetchpriority="low" href="../js/framer.baxohdpp.mjs"><link rel="modulepreload" fetchpriority="low" href="../js/motion.yk2tezie.mjs"><link rel="modulepreload" fetchpriority="low" href="../js/toplevel-deps.bsnxvimq.mjs"><script type="module" async data-framer-bundle="main" fetchPriority="low" src="../js/script_main.d1u5p3_v.mjs"></script>
+	<!-- Start of bodyEnd -->
+    
+    <!-- End of bodyEnd -->
+
+
+
+
+
+
+
+
+
+<!-- CareerGen Sticky Bottom Registration Bar -->
+<div id="careergen-sticky-bar" class="careergen-sticky-bar" role="region" aria-label="Course Registration Offer">
+  <div class="careergen-sticky-container">
+    <div class="careergen-sticky-left">
+      <div class="careergen-sticky-title-wrap">
+        <span class="careergen-course-badge">Offline at School</span>
+        <h4 class="careergen-course-title">AI Literacy for Camps</h4>
+      </div>
+      <div class="careergen-urgency-pill">
+        <span class="careergen-pulse-dot"></span>
+        <span class="careergen-urgency-text">🔔 Only 5/25 Slots Left!</span>
+      </div>
+    </div>
+    <div class="careergen-sticky-right">
+      <div class="careergen-pricing-wrap">
+        <div class="careergen-pricing-header">
+          <span class="careergen-offer-label">Early Bird Offer</span>
+          <span class="careergen-price-original">₹8,999/-</span>
+        </div>
+        <div class="careergen-price-current">₹6,999<span class="careergen-price-suffix">/-</span></div>
+      </div>
+      <a href="../contact" class="careergen-register-btn" id="careergen-sticky-cta" aria-label="Register Now for AI Literacy for Camps">
+        <span>Register Now</span>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+          <polyline points="12 5 19 12 12 19"></polyline>
+        </svg>
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- CareerGen WhatsApp Floating Contact Button -->
+<a href="https://wa.me/918688282524?text=Hello%20CareerGen%2C%20I%20would%20like%20to%20know%20more%20about%20the%20AI%20Literacy%20Camp." target="_blank" rel="noopener noreferrer" class="careergen-whatsapp-float" id="careergen-whatsapp-btn" aria-label="Contact CareerGen on WhatsApp">
+  <span class="careergen-whatsapp-pulse"></span>
+  <div class="careergen-whatsapp-icon-wrap">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 14.99 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.05 7.42C8.84 7.42 8.5 7.5 8.2 7.82C7.9 8.15 7.07 8.93 7.07 10.51C7.07 12.09 8.22 13.61 8.38 13.82C8.54 14.04 10.6 17.21 13.78 18.58C14.54 18.91 15.13 19.11 15.59 19.25C16.35 19.5 17.04 19.46 17.59 19.38C18.2 19.29 19.47 18.61 19.73 17.87C20 17.13 20 16.5 19.92 16.37C19.83 16.24 19.63 16.16 19.32 16.01C19.01 15.85 17.51 15.11 17.23 15.01C16.95 14.91 16.75 14.86 16.54 15.17C16.34 15.48 15.76 16.16 15.58 16.37C15.4 16.57 15.22 16.6 14.91 16.45C14.6 16.29 13.61 15.97 12.43 14.92C11.51 14.1 10.89 13.09 10.71 12.78C10.53 12.47 10.69 12.31 10.85 12.15C10.99 12.02 11.16 11.8 11.31 11.62C11.47 11.44 11.52 11.31 11.62 11.11C11.72 10.9 11.67 10.72 11.6 10.57C11.52 10.41 10.93 8.95 10.67 8.36C10.42 7.78 10.17 7.86 9.98 7.85C9.8 7.85 9.6 7.84 9.4 7.84C9.2 7.84 8.87 7.91 8.64 8.16"/>
+    </svg>
+  </div>
+  <span class="careergen-whatsapp-text">Contact Us</span>
+</a>
+
+<!-- CareerGen PDF Curriculum Modal (In-Page, Strictly No New Tabs) -->
+<div id="careergen-pdf-modal" class="careergen-modal" role="dialog" aria-modal="true" aria-label="CareerGen Curriculum Document" style="display:none;">
+  <div class="careergen-modal-backdrop" onclick="careergenCloseModal('pdf')"></div>
+  <div class="careergen-modal-box careergen-pdf-box">
+    <div class="careergen-modal-header">
+      <div class="careergen-modal-title-group">
+        <div class="careergen-modal-badge">8 Weeks Curriculum</div>
+        <h3 class="careergen-modal-title">AI Literacy Camp — Course Curriculum</h3>
+      </div>
+      <div class="careergen-modal-actions">
+        <a id="careergen-pdf-download-link" href="../careergen_curriculam.pdf" target="_blank" download="CareerGen_Curriculum.pdf" class="careergen-modal-btn careergen-btn-secondary" title="Download PDF">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="7 10 12 15 17 10"></polyline>
+            <line x1="12" y1="15" x2="12" y2="3"></line>
+          </svg>
+          <span>Download PDF</span>
+        </a>
+        <button type="button" class="careergen-modal-close-btn" onclick="careergenCloseModal('pdf')" aria-label="Close Curriculum Viewer">✕</button>
+      </div>
+    </div>
+    <div class="careergen-modal-body careergen-pdf-body">
+      <iframe id="careergen-pdf-frame" data-src="../careergen_curriculam.pdf#toolbar=1" src="" title="CareerGen AI Literacy Camp Curriculum"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- CareerGen Video Demo Modal -->
+<div id="careergen-video-modal" class="careergen-modal" role="dialog" aria-modal="true" aria-label="CareerGen Demo Video" style="display:none;">
+  <div class="careergen-modal-backdrop" onclick="careergenCloseModal('video')"></div>
+  <div class="careergen-modal-box careergen-video-box">
+    <div class="careergen-modal-header">
+      <div class="careergen-modal-title-group">
+        <div class="careergen-modal-badge" style="background:rgba(232,114,44,0.22);border-color:rgba(232,114,44,0.5);color:#f9d8c0">Classroom Preview</div>
+        <h3 class="careergen-modal-title">Watch Demo — AI Literacy for Camps</h3>
+      </div>
+      <button type="button" class="careergen-modal-close-btn" onclick="careergenCloseModal('video')" aria-label="Close Video Player">✕</button>
+    </div>
+    <div class="careergen-modal-body careergen-video-body">
+      <video id="careergen-demo-video" controls playsinline preload="metadata" style="width:100%;max-height:68vh;border-radius:12px;background:#000;display:block">
+        <source src="../images/mlwpbw1duqawjlhhun3dbwpgjak.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <div class="careergen-modal-footer">
+      <p class="careergen-video-caption">See students in action: exploring AI concepts, prompting, coding, and presenting real portfolio projects.</p>
+      <a href="../contact" class="careergen-register-btn" style="padding:8px 18px;font-size:12px">Register for Next Batch →</a>
+    </div>
+  </div>
+</div>
+
+<!-- CareerGen Interactive Controller Script -->
+<script id="careergen-interactive-controller">
+// Intercept Framer form submissions to mock 200 OK so Framer never shows "Something went wrong"
+if (typeof window !== 'undefined' && window.fetch) {
+  var _origFetch = window.fetch;
+  window.fetch = async function(url, options) {
+    if (typeof url === 'string' && url.includes('api.framer.com/forms')) {
+      return new Response(JSON.stringify({ status: 'ok' }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+    return _origFetch.apply(this, arguments);
+  };
+}
+
+function careergenOpenModal(type) {
+  if (type === 'pdf') {
+    var modal = document.getElementById('careergen-pdf-modal');
+    var iframe = document.getElementById('careergen-pdf-frame');
+    if (modal && iframe) {
+      if (!iframe.src || iframe.src === 'about:blank' || iframe.src === window.location.href) {
+        iframe.src = iframe.getAttribute('data-src');
+      }
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+  } else if (type === 'video') {
+    var vModal = document.getElementById('careergen-video-modal');
+    var video = document.getElementById('careergen-demo-video');
+    if (vModal) {
+      vModal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+      if (video) {
+        video.play().catch(function(e) {});
+      }
+    }
+  }
+}
+
+function careergenCloseModal(type) {
+  if (type === 'pdf') {
+    var modal = document.getElementById('careergen-pdf-modal');
+    if (modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  } else if (type === 'video') {
+    var vModal = document.getElementById('careergen-video-modal');
+    var video = document.getElementById('careergen-demo-video');
+    if (vModal) {
+      vModal.style.display = 'none';
+      document.body.style.overflow = '';
+      if (video) {
+        video.pause();
+        video.currentTime = 0;
+      }
+    }
+  }
+}
+
+// Close on Escape key
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    careergenCloseModal('pdf');
+    careergenCloseModal('video');
+  }
+});
+
+// Single Unified Click Delegator
+function careergenHandleClick(e) {
+  var target = e.target;
+  if (!target) return;
+  var btn = target.closest('a, button, [data-framer-name="Button"], [data-framer-name*="Phone"], [data-framer-name="Desktop"]') || target;
+  var text = (btn.innerText || btn.textContent || '').trim().toLowerCase();
+
+  // 1. Handle "Download Curriculum" -> View PDF in another tab
+  var isDownloadCurriculum = (text.includes('download') || text.includes('dowload')) && 
+                             (text.includes('curricul') || text.includes('curriccul'));
+  if (isDownloadCurriculum) {
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    var pdfPath = window.location.origin + '/careergen_curriculam.pdf';
+    window.open(pdfPath, '_blank');
+    return false;
+  }
+
+  // 2. Handle "View Curriculum" -> In-page pop-up modal ONLY, strictly NO new tabs
+  if (text.includes('view curriculum') && !isDownloadCurriculum) {
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    careergenOpenModal('pdf');
+    return false;
+  }
+
+  // 3. Handle "Watch a Demo"
+  if (text.includes('watch a demo') || text.includes('watch demo')) {
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    careergenOpenModal('video');
+    return false;
+  }
+
+  // 4. Handle Curriculum Page Cards Direct Routing
+  if (window.location.pathname.includes('curriculam')) {
+    var card = target.closest('a[href*="curriculam/"], [data-framer-name="Flip"], [data-framer-name="Desktop"], [data-framer-name="Phone"]');
+    if (card) {
+      var cardText = (card.innerText || card.textContent || '').toLowerCase();
+      var dest = null;
+      if (cardText.includes('understand ai')) {
+        dest = 'understand-ai';
+      } else if (cardText.includes('advanced ai')) {
+        dest = 'advanced-ai-skills';
+      } else if (cardText.includes('prompting') || cardText.includes('ai tools')) {
+        dest = 'build-launch-website';
+      } else if (cardText.includes('build') && (cardText.includes('deploy') || cardText.includes('website'))) {
+        dest = 'deploy-share-website';
+      }
+
+      if (dest) {
+        var targetUrl = window.location.origin + '/curriculam/' + dest;
+        if (window.location.href !== targetUrl) {
+          e.preventDefault();
+          e.stopPropagation();
+          window.location.href = targetUrl;
+          return false;
+        }
+      }
+    }
+  }
+
+  // 5. Handle Contact Form "Send Request" Button Click
+  var isContactBtn = text.includes('send request') || 
+                     (btn.getAttribute && (btn.getAttribute('data-framer-name') === 'Contact Button' || btn.getAttribute('name') === 'Contact Button')) ||
+                     btn.name === 'Contact Button';
+  if (isContactBtn) {
+    var form = btn.closest('form') || document.querySelector('form');
+    if (form) {
+      e.preventDefault();
+      e.stopPropagation();
+      e.stopImmediatePropagation();
+      careergenSubmitWhatsAppForm(form);
+      return false;
+    }
+  }
+}
+
+window.addEventListener('click', careergenHandleClick, true);
+document.addEventListener('click', careergenHandleClick, true);
+
+// Form submit event interceptor
+function careergenHandleSubmit(e) {
+  var form = e.target.closest('form');
+  if (!form) return;
+  e.preventDefault();
+  e.stopPropagation();
+  e.stopImmediatePropagation();
+  careergenSubmitWhatsAppForm(form);
+  return false;
+}
+
+window.addEventListener('submit', careergenHandleSubmit, true);
+document.addEventListener('submit', careergenHandleSubmit, true);
+
+// Debouncing / submission lock to guarantee EXACTLY ONE TAB opens
+var careergenIsSubmitting = false;
+
+// WhatsApp API Form Submission Handler
+function careergenSubmitWhatsAppForm(form) {
+  if (careergenIsSubmitting) return;
+
+  // Clear any existing input error highlights
+  form.querySelectorAll('.careergen-input-error').forEach(function(el) {
+    el.classList.remove('careergen-input-error');
+  });
+
+  // Extract inputs
+  var parentInput = form.querySelector('input[placeholder*="Parent"]') || form.querySelector('input[name="Full Name"]');
+  var parentName = parentInput ? parentInput.value.trim() : '';
+
+  var childInput = form.querySelector('input[placeholder*="Child"]');
+  var childName = childInput ? childInput.value.trim() : '';
+
+  var phoneInput = form.querySelector('input[name="Phone"]') || form.querySelector('input[type="tel"]') || form.querySelector('input[placeholder*="91"]');
+  var phone = phoneInput ? phoneInput.value.trim() : '';
+
+  var emailInput = form.querySelector('input[name="Email"]') || form.querySelector('input[name="Email Address"]') || form.querySelector('input[type="email"]');
+  var email = emailInput ? emailInput.value.trim() : '';
+
+  // Extract selected class
+  var classRadio = form.querySelector('input[type="radio"]:checked');
+  var studentClass = classRadio ? (classRadio.closest('label')?.innerText?.trim() || classRadio.value) : '';
+
+  // Extract selected interests (multiple checkboxes)
+  var interestCbs = form.querySelectorAll('input[type="checkbox"]:checked');
+  var interests = [];
+  interestCbs.forEach(function(cb) {
+    var t = cb.closest('label')?.innerText?.trim() || cb.value;
+    if (t) interests.push(t);
+  });
+
+  // Extract message
+  var msgTextarea = form.querySelector('textarea[name="Message"]') || form.querySelector('textarea');
+  var message = msgTextarea ? msgTextarea.value.trim() : '';
+
+  // Status Box reference
+  var statusBox = document.getElementById('careergen-form-status-box');
+  if (!statusBox) {
+    statusBox = document.createElement('div');
+    statusBox.id = 'careergen-form-status-box';
+    form.parentNode.insertBefore(statusBox, form.nextSibling);
+  }
+
+  // Get submit button & label
+  var submitBtn = form.querySelector('button[name="Contact Button"]') || form.querySelector('button[type="submit"]') || form.querySelector('button');
+  var submitBtnTextEl = submitBtn ? (submitBtn.querySelector('.framer-1ocdhwz p') || submitBtn.querySelector('p') || submitBtn) : null;
+  var origBtnText = submitBtnTextEl ? submitBtnTextEl.innerText : 'Send request';
+
+  // Validation: Parent Name
+  if (!parentName) {
+    if (parentInput) {
+      parentInput.classList.add('careergen-input-error');
+      parentInput.focus();
+    }
+    statusBox.className = 'careergen-form-status error';
+    statusBox.innerHTML = '<span>⚠️ Please enter your Parent or Guardian name.</span>';
+    statusBox.style.display = 'flex';
+    if (submitBtnTextEl) submitBtnTextEl.innerText = '⚠️ Please enter your name';
+    setTimeout(function() { if (submitBtnTextEl) submitBtnTextEl.innerText = origBtnText; }, 3000);
+    return;
+  }
+
+  // Validation: Phone
+  if (!phone) {
+    if (phoneInput) {
+      phoneInput.classList.add('careergen-input-error');
+      phoneInput.focus();
+    }
+    statusBox.className = 'careergen-form-status error';
+    statusBox.innerHTML = '<span>⚠️ Please enter your contact Phone number.</span>';
+    statusBox.style.display = 'flex';
+    if (submitBtnTextEl) submitBtnTextEl.innerText = '⚠️ Please enter phone number';
+    setTimeout(function() { if (submitBtnTextEl) submitBtnTextEl.innerText = origBtnText; }, 3000);
+    return;
+  }
+
+  // Lock submission for 3 seconds to guarantee only ONE tab opens
+  careergenIsSubmitting = true;
+  setTimeout(function() { careergenIsSubmitting = false; }, 3000);
+
+  // Update button state immediately to "Request was sent"
+  if (submitBtn) {
+    submitBtn.style.setProperty('background-color', '#25D366', 'important');
+    submitBtn.style.setProperty('border-color', '#128C7E', 'important');
+    submitBtn.style.setProperty('box-shadow', '0px 4px 0px 0px #128C7E', 'important');
+    submitBtn.style.setProperty('opacity', '1', 'important');
+  }
+  if (submitBtnTextEl) {
+    submitBtnTextEl.innerText = '✓ Request was sent';
+    submitBtnTextEl.style.setProperty('color', '#ffffff', 'important');
+  }
+
+  // Keep button text updated in case of React/Framer rerender
+  var keepCount = 0;
+  var keepInterval = setInterval(function() {
+    keepCount++;
+    if (submitBtnTextEl) {
+      submitBtnTextEl.innerText = '✓ Request was sent';
+      submitBtnTextEl.style.color = '#ffffff';
+    }
+    if (keepCount > 20) clearInterval(keepInterval);
+  }, 100);
+
+  // Construct structured WhatsApp message for target number: 8688282524
+  var waMessage = "👋 *New CareerGen Course Inquiry*\n\n" +
+    "👤 *Parent / Guardian:* " + parentName + "\n" +
+    (childName ? "🧒 *Child Name:* " + childName + "\n" : "") +
+    "📞 *Phone:* " + phone + "\n" +
+    (email ? "✉️ *Email:* " + email + "\n" : "") +
+    (studentClass ? "🏫 *Student Class:* " + studentClass + "\n" : "") +
+    (interests.length > 0 ? "🎯 *Interests:* " + interests.join(', ') + "\n" : "") +
+    (message ? "💬 *Note:* " + message + "\n" : "") +
+    "\n_Sent via CareerGen Website_";
+
+  var waUrl = "https://wa.me/918688282524?text=" + encodeURIComponent(waMessage);
+
+  // Update on-page status banner
+  statusBox.className = 'careergen-form-status success';
+  statusBox.innerHTML = '<span>✓ Request was sent! Triggered to the WhatsApp API. Opening WhatsApp (8688282524)...</span>';
+  statusBox.style.display = 'flex';
+
+  // Open WhatsApp in exactly ONE new tab
+  var waWindow = window.open(waUrl, '_blank');
+  if (!waWindow || waWindow.closed || typeof waWindow.closed === 'undefined') {
+    statusBox.innerHTML += ' <a href="' + waUrl + '" target="_blank" style="color:#128c7e;text-decoration:underline;margin-left:8px;font-weight:700">Click here to open WhatsApp</a>';
+  }
+}
+</script>
+</body>
+</html>
