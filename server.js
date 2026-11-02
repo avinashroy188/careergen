@@ -31,25 +31,23 @@ function resolveFilePath(reqPath) {
   // Strip query string and decode
   let cleanPath = decodeURIComponent(reqPath.split('?')[0]);
   if (cleanPath.startsWith('/')) cleanPath = cleanPath.slice(1);
-  if (!cleanPath || cleanPath === '') cleanPath = 'index';
+  if (!cleanPath || cleanPath === '') cleanPath = 'index.html';
 
-  // 1. Direct match
+  // 1. Direct match with .html first for clean URLs
+  if (fs.existsSync(path.join(ROOT, cleanPath + '.html')) && fs.statSync(path.join(ROOT, cleanPath + '.html')).isFile()) {
+    return path.join(ROOT, cleanPath + '.html');
+  }
+
+  // 2. Direct match
   let target = path.join(ROOT, cleanPath);
   if (fs.existsSync(target) && fs.statSync(target).isFile()) {
     return target;
   }
 
-  // 2. Direct match with .html
-  if (fs.existsSync(target + '.html') && fs.statSync(target + '.html').isFile()) {
-    return target + '.html';
-  }
-
-  // 3. If directory, check directory/index or directory/index.html
+  // 3. If directory, check directory/index.html
   if (fs.existsSync(target) && fs.statSync(target).isDirectory()) {
     const dirIndexHtml = path.join(target, 'index.html');
     if (fs.existsSync(dirIndexHtml)) return dirIndexHtml;
-    const dirIndex = path.join(target, 'index');
-    if (fs.existsSync(dirIndex)) return dirIndex;
   }
 
   // 4. Try stripping trailing slash

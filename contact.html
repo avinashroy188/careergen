@@ -159,30 +159,49 @@
     <!-- End of headEnd -->
 	
 <style id="careergen-visibility-fix">
-/* CareerGen Global Visibility & Render Fix */
-[data-framer-appear-id] {
+/* CareerGen Universal Visibility & Rendering Guarantee */
+:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity:0"],
+:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity: 0"],
+:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity:0.001"],
+:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity: 0.001"] {
   opacity: 1 !important;
-  transform: none !important;
   visibility: visible !important;
 }
-div[style*="opacity:0.001"],
-div[style*="opacity: 0.001"],
-div[style*="opacity:0;"],
-div[style*="opacity: 0;"],
-div[style*="opacity:0""],
-p[style*="opacity:0.001"],
-p[style*="opacity: 0.001"],
-p[style*="opacity:0;"],
-p[style*="opacity: 0;"] {
-  opacity: 1 !important;
+:not(.careergen-sticky-bar):not(.careergen-modal):not(.careergen-modal *)[style*="translateY(30px)"],
+:not(.careergen-sticky-bar):not(.careergen-modal):not(.careergen-modal *)[style*="translateY(20px)"] {
   transform: none !important;
-  visibility: visible !important;
 }
 .framer-1hgay8u, .framer-1sdszt2 {
   cursor: pointer !important;
   text-decoration: none !important;
 }
 </style>
+<script id="careergen-visibility-script">
+(function() {
+  function reveal() {
+    var targets = document.querySelectorAll('[style*="opacity:0"], [style*="opacity: 0"], [style*="opacity:0.001"]');
+    for (var i = 0; i < targets.length; i++) {
+      var t = targets[i];
+      if (!t.classList.contains('framer-hd3rle') && !t.closest('.careergen-modal')) {
+        t.style.setProperty('opacity', '1', 'important');
+        t.style.setProperty('visibility', 'visible', 'important');
+        if (t.style.transform && t.style.transform.indexOf('translateY') !== -1 && !t.classList.contains('careergen-sticky-bar')) {
+          t.style.setProperty('transform', 'none', 'important');
+        }
+      }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', reveal);
+  } else {
+    reveal();
+  }
+  window.addEventListener('load', reveal);
+  setTimeout(reveal, 100);
+  setTimeout(reveal, 500);
+  setTimeout(reveal, 1500);
+})();
+</script>
 
 
 
