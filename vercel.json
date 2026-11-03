@@ -12,43 +12,43 @@
       ]
     },
     {
-      "source": "/(.*)\\.mjs",
+      "source": "/(.*).mjs",
       "headers": [
         { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
       ]
     },
     {
-      "source": "/(.*)\\.js",
+      "source": "/(.*).js",
       "headers": [
         { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
       ]
     },
     {
-      "source": "/(.*)\\.framercms",
+      "source": "/(.*).framercms",
       "headers": [
         { "key": "Content-Type", "value": "application/json; charset=utf-8" }
       ]
     },
     {
-      "source": "/(.*)\\.json",
+      "source": "/(.*).json",
       "headers": [
         { "key": "Content-Type", "value": "application/json; charset=utf-8" }
       ]
     },
     {
-      "source": "/(.*)\\.woff2",
+      "source": "/(.*).woff2",
       "headers": [
         { "key": "Content-Type", "value": "font/woff2" }
       ]
     },
     {
-      "source": "/(.*)\\.svg",
+      "source": "/(.*).svg",
       "headers": [
         { "key": "Content-Type", "value": "image/svg+xml" }
       ]
     },
     {
-      "source": "/(.*)\\.pdf",
+      "source": "/(.*).pdf",
       "headers": [
         { "key": "Content-Type", "value": "application/pdf" },
         { "key": "Accept-Ranges", "value": "bytes" }

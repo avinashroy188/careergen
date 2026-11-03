@@ -193,17 +193,34 @@
 
 <style id="careergen-visibility-fix">
 /* CareerGen Universal Visibility & Rendering Guarantee */
-:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity:0"],
-:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity: 0"],
-:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity:0.001"],
-:not(.framer-hd3rle):not(.careergen-modal):not(.careergen-modal *)[style*="opacity: 0.001"] {
+[style*="opacity:0"],
+[style*="opacity: 0"],
+[style*="opacity:0.001"],
+[style*="opacity: 0.001"] {
   opacity: 1 !important;
   visibility: visible !important;
 }
-:not(.careergen-sticky-bar):not(.careergen-modal):not(.careergen-modal *)[style*="translateY(30px)"],
-:not(.careergen-sticky-bar):not(.careergen-modal):not(.careergen-modal *)[style*="translateY(20px)"] {
+
+[style*="translateY(30px)"],
+[style*="translateY(20px)"] {
   transform: none !important;
 }
+
+.framer-hd3rle {
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+.careergen-modal {
+  display: none !important;
+  opacity: 0 !important;
+}
+
+.careergen-modal.active {
+  display: flex !important;
+  opacity: 1 !important;
+}
+
 .framer-1hgay8u, .framer-1sdszt2 {
   cursor: pointer !important;
   text-decoration: none !important;
@@ -230,9 +247,11 @@
     reveal();
   }
   window.addEventListener('load', reveal);
-  setTimeout(reveal, 100);
-  setTimeout(reveal, 500);
-  setTimeout(reveal, 1500);
+  setTimeout(reveal, 50);
+  setTimeout(reveal, 150);
+  setTimeout(reveal, 400);
+  setTimeout(reveal, 1000);
+  setTimeout(reveal, 2500);
 })();
 </script>
 
